@@ -1,0 +1,173 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="600" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
+  </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_WHITESPACES" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="VAR_DECLARATION_WRAP" value="5" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="ALIGN_IMPORTS" value="true" />
+    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
+    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
+    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="5" />
+  </JSCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="OBJECT_WRAPPING" value="5" />
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
+  <JavaCodeStyleSettings>
+    <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
+    <option name="SPACE_AROUND_TYPE_BOUNDS_IN_TYPE_PARAMETERS" value="false" />
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+  </JavaCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="0" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="4" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_CONTENT" value="2" />
+    <option name="INSERT_CLOSING" value="0" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="1" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="INSERT_EL_COMMA" value="1" />
+    <option name="INSERT_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="SET_EL_COMMA" value="1" />
+    <option name="WITH_EL_LINE" value="0" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="SELECT_EL_LINE" value="1" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="0" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="ORDER_EL_LINE" value="1" />
+    <option name="ORDER_EL_WRAP" value="1" />
+    <option name="ORDER_EL_COMMA" value="1" />
+    <option name="ORDER_ALIGN_ASC_DESC" value="true" />
+    <option name="ROUTINE_ARG_CONTENT" value="1" />
+    <option name="ROUTINE_ARG_CLOSING" value="4" />
+    <option name="ROUTINE_ARG_WRAP" value="1" />
+    <option name="ROUTINE_ARG_COMMA" value="1" />
+    <option name="ROUTINE_ARG_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="IMP_IF_THEN_COLLAPSE" value="false" />
+    <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+    <option name="CORTEGE_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="EXPR_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="EXPR_CALL_SPACE_INSIDE_PARENTHESES" value="true" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
+    <option name="EXPR_CASE_END" value="1" />
+    <option name="EXPR_CASE_COLLAPSE" value="false" />
+  </MySQLCodeStyleSettings>
+  <XML>
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_TRY_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SYNCHRONIZED_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_TRY_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="SPACE_WITHIN_ANNOTATION_PARENTHESES" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="BRACE_STYLE" value="5" />
+    <option name="CLASS_BRACE_STYLE" value="5" />
+    <option name="METHOD_BRACE_STYLE" value="5" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+</code_scheme>
