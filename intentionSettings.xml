@@ -68,5 +68,6 @@
     <ignoreAction name="SQL/Quote identifier" />
     <ignoreAction name="Language injection/Edit Injection Settings" />
     <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="Java/Control Flow/Reverse Direction of For Loop" />
   </component>
 </application>
